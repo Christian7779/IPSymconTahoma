@@ -2,6 +2,7 @@
   "translations": {
     "de": {
       "Configurator": "Konfigurator",
+      "interior_blind_shutter_positionable_stateful_roof": "positionierbare Innenjalousie",
       "roller_shutter_positionable_stateful_roof": "positionierbarer Rollladen",
       "roller_shutter_positionable_stateful_dual": "positionierbarer Rollladen",
       "roller_shutter": "Rollladen",
