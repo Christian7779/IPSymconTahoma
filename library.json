@@ -1,12 +1,12 @@
 {
 	"id": "{10218A60-2696-FF6C-721A-A138CAF60247}",
-	"author": "Fonzo",
+	"author": "Fonzo,Christian7779",
 	"name": "Tahoma",
 	"url": "https://github.com/Wolbolar/IPSymconTahoma",
 	"compatibility": {
 		"version": "5.2"
 	},
-	"version": "0.4",
-	"build": 4,
+	"version": "0.5",
+	"build": 1,
 	"date": 0
 }
